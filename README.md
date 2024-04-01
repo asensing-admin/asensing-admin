@@ -1,5 +1,4 @@
-<!-- ### Hi there 👋 -->
-#主页展示的内容
+### Hi there 👋
 
 <!--
 **asensing-admin/asensing-admin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
